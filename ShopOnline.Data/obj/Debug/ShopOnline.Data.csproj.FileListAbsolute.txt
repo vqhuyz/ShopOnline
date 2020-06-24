@@ -1,0 +1,14 @@
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Data.dll.config
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Data.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Data.pdb
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\bin\Debug\EntityFramework.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Common.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Common.pdb
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\bin\Debug\EntityFramework.xml
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.csprojAssemblyReference.cache
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.csproj.CopyComplete
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.pdb

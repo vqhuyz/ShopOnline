@@ -1,0 +1,15 @@
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\OnlineShop.Service.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\OnlineShop.Service.pdb
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\ShopOnline.Common.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\ShopOnline.Data.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\ShopOnline.Model.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\ShopOnline.Common.pdb
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\ShopOnline.Data.pdb
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\ShopOnline.Data.dll.config
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\ShopOnline.Model.pdb
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\bin\Debug\ShopOnline.Model.dll.config
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\obj\Debug\OnlineShop.Service.csprojAssemblyReference.cache
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\obj\Debug\OnlineShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\obj\Debug\OnlineShop.Service.csproj.CopyComplete
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\obj\Debug\OnlineShop.Service.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\OnlineShop.Service\obj\Debug\OnlineShop.Service.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Common\bin\Debug\ShopOnline.Common.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Common\bin\Debug\ShopOnline.Common.pdb
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Common\obj\Debug\ShopOnline.Common.csprojAssemblyReference.cache
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Common\obj\Debug\ShopOnline.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Common\obj\Debug\ShopOnline.Common.dll
+C:\Users\Dev-Huy\source\repos\ShopOnline\ShopOnline.Common\obj\Debug\ShopOnline.Common.pdb
